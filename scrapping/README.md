@@ -1,0 +1,3 @@
+On extrait les valeurs des crypto-monnaies d'une page web et puis on extrait les addresses mail de mairies
+
+En gros voila quoi...
